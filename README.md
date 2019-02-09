@@ -10,3 +10,4 @@ _Bedzie ciekawie_
   * Item 2b
 ### TODO
 * ciekawostka 1
+* _ciekawostak 2 do napisania po weekendzie_
